@@ -1,4 +1,5 @@
 # Curso de Reconocimiento de Patrones
+![aplicaciones-mas-comunes-inteligencia-artificial](https://github.com/EduardoSalazarA/ReconocimentoPatrones/assets/142452813/140bae0a-a8f4-4cae-aa6a-2021b1df95ba)
 
 ¡Bienvenidos al curso de Reconocimiento de Patrones! En este curso, exploraremos conceptos clave en el campo del reconocimiento de patrones, aprendiendo a identificar tendencias y estructuras en datos complejos. ¡Prepárate para un emocionante viaje en el mundo de la analítica de datos y el aprendizaje automático!
 
@@ -8,13 +9,13 @@
 
 ![Foto Integrante 1](enlace-a-la-imagen-del-integrante-1.jpg)
 
-¡Hola! Soy [Eduardo Salazar], y soy uno de los entusiastas de la ciencia de datos detrás de este curso. Mi pasión por el análisis de datos y la resolución de problemas me ha llevado a sumergirme en el mundo del reconocimiento de patrones. Tengo experiencia en programación y en la aplicación de técnicas de aprendizaje automático para extraer información valiosa de datos desordenados. Espero poder compartir mi conocimiento y aprender junto a ti en este emocionante curso.
+¡Hola! Soy Eduardo Salazar, y soy uno de los entusiastas de la ciencia de datos detrás de este curso. Mi pasión por el análisis de datos y la resolución de problemas me ha llevado a sumergirme en el mundo del reconocimiento de patrones. Tengo experiencia en programación y en la aplicación de técnicas de aprendizaje automático para extraer información valiosa de datos desordenados. Espero poder compartir mi conocimiento y aprender junto a ti en este emocionante curso.
 
-### [Nombre del Integrante 2]
+### [Marco Aurelio Ramiro Lagones López (marco.lagones@upch.pe]
 
-![Foto del Integrante 2](enlace-a-la-imagen-del-integrante-2.jpg)
+![marco PBD1](https://github.com/EduardoSalazarA/ReconocimentoPatrones/assets/142452813/1f1e429d-534b-4ac8-9d2a-ee559f48746e)
 
-¡Hola a todos! Soy [Nombre del Integrante 2], y junto con mi compañero [Nombre del Integrante 1], estoy emocionado de presentarles este curso sobre reconocimiento de patrones. Mi trayectoria en el análisis de datos y la ingeniería me ha brindado una sólida base para explorar cómo los algoritmos pueden descubrir patrones ocultos en los datos. Creo que el reconocimiento de patrones es fundamental en la comprensión de fenómenos complejos, y espero que este curso te inspire tanto como a mí.
+El conocimiento es el eje central del cambio, teniendo en cuenta eso decidí estudiar la carrera de ingeniería biomédica para poder dar ese cambio. Es así que pretendo desarrollar soluciones innovadoras para los tópicos que pueda afrontar durante mi carrera profesional, apoyándome en la innovación y tecnología.  Mis áreas de interés son las Señales e Imágenes Biomédicas, y la Biomecánica y Rehabilitación.
 
 ## Motivación
 
