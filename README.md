@@ -7,7 +7,7 @@
 
 ### Luis Eduardo Salazar Aguilar (luis.salazar.a@upch.pe)
 
-![Foto Integrante 1](enlace-a-la-imagen-del-integrante-1.jpg)
+![Captura de pantalla 2023-08-17 063957](https://github.com/EduardoSalazarA/ReconocimentoPatrones/assets/142452813/3fb37ea2-60fe-4e0a-820b-02ca80254a17)
 
 ¡Hola! Soy Eduardo Salazar, y soy uno de los entusiastas de la ciencia de datos detrás de este curso. Mi pasión por el análisis de datos y la resolución de problemas me ha llevado a sumergirme en el mundo del reconocimiento de patrones. Tengo experiencia en programación y en la aplicación de técnicas de aprendizaje automático para extraer información valiosa de datos desordenados. Espero poder compartir mi conocimiento y aprender junto a ti en este emocionante curso.
 
